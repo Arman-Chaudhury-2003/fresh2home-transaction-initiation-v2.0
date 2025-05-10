@@ -15,7 +15,7 @@ This project is part of the **Fresh2Home** food delivery ecosystem, enabling sec
 
 > Upload your screenshots to an image host like [Imgur](https://imgur.com/upload) or [PostImages](https://postimages.org/) and paste the direct image links below.
 
-![Homepage Screenshot](https://your-image-link.com/homepage.png)
+[![temp-Imagep-RUR1-W.avif](https://i.postimg.cc/Wb2pDZS3/temp-Imagep-RUR1-W.avif)](https://postimg.cc/WtHcChBL)
 ![QR Code Generation](https://your-image-link.com/qr.png)
 ![Email/iMessage Confirmation](https://your-image-link.com/confirmation.png)
 
